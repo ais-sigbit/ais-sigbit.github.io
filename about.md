@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 
-The Special Interest Group on Blockchain Innovations and Technologies (SIGBIT) is a SIG of the [Association for Information Systems (AIS)](https://aisnet.org). SITBIT provides a platform for researchers and practitioners interested in blockchain-driven innovations and technologies, such as Web3.0, DeFi, and NFT, to exchange ideas, share experiences and knowledge.
+The Special Interest Group on Blockchain Innovations and Technologies (SIGBIT) is a SIG of the [Association for Information Systems (AIS)](https://aisnet.org). SITBIT provides a platform for researchers and practitioners interested in blockchain-driven innovations and technologies, such as Web3.0, DeFi, and NFT, to exchange ideas and share experiences and knowledge.
 
 #### Honorary President
 
