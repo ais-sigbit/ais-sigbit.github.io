@@ -1,0 +1,59 @@
+BODY {
+	FONT-SIZE: 12px; COLOR: #003366; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff;
+	
+	scrollbar-highlight-color: buttonface; 
+	scrollbar-shadow-color: buttonface; 
+	scrollbar-3dlight-color: buttonhighlight; 
+	scrollbar-track-color: #eeeeee; 
+	scrollbar-darkshadow-color: buttonshadow;
+}
+TD {
+	FONT-SIZE: 12px;
+	COLOR: #003366;
+	font-family: Arial, Helvetica, sans-serif;
+}
+A:link {
+	COLOR: #3366CC; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #3366CC; TEXT-DECORATION: underline}
+A:hover {
+	COLOR: #3366CC! important; TEXT-DECORATION: underline! important
+}
+A.master:link {
+	COLOR: #FFFFFF; TEXT-DECORATION: underline
+}
+A.master:visited {
+	COLOR: #FFFFFF; TEXT-DECORATION: underline}
+A.master:hover {
+	COLOR: #FFFFFF! important; TEXT-DECORATION: underline! important
+}
+TD.bottom {
+	FONT-SIZE: 10px; COLOR: #003366
+}
+TD.director {
+	FONT-SIZE: 11px; COLOR: #003366
+}
+.underline {
+	text-decoration: underline;
+}
+
+.annotation {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 10px;
+	text-decoration: none;
+}
+.spaceholder {
+	background-image: url(images/spacer_1.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+
+
+#Redcolor {
+	color: #FF0000;
+}
+.red {
+	color: #FF0000;
+}

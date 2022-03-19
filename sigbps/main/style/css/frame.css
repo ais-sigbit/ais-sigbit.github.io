@@ -1,0 +1,16 @@
+#mainContent {
+	margin-left: 70pt;
+}
+#mainContent p {margin-left: 0pt;}
+#mainContent h3 {font-size: 14pt;}
+#mainContent h4 {color: Black; margin-left: -20pt;}
+#mainContent h5 {font-size: 150%;
+	   font-weight: bold; }
+#mainContent h6 {font-size: 12pt;
+	   font-weight: bold;
+	   font-style:italic;
+	   color: #000066;
+	   margin: 0;}
+#program {font-size: 9pt;
+}
+#program td {padding-left: 5px;}
