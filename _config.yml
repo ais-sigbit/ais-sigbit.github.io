@@ -24,7 +24,7 @@ nav-menu:
   permalink: news
 
 # use false to turn off any social media links
-twitter: false
+twitter: https://twitter.com/SIGBIT_AIS
 facebook: false
 instagram: false
 github: https://github.com/ais-sigbit
