@@ -28,7 +28,7 @@ Daning Hu is an Associate Professor at the Department of Finance of the Southern
 
 [Shaokun Fan](https://business.oregonstate.edu/users/shaokun-fan)
 
-Shaokun Fan is an Associate Professor in Business Analytics in the College of Business at Oregon State University.
+Shaokun Fan is an Assistant Professor in Business Analytics in the College of Business at Oregon State University.
 
 ---
 
