@@ -6,6 +6,18 @@ permalink: about
 
 The Special Interest Group on Blockchain Innovations and Technologies (SIGBIT) is a SIG of the [Association for Information Systems (AIS)](https://aisnet.org). SITBIT provides a platform for researchers and practitioners interested in blockchain-driven innovations and technologies, such as Web3.0, DeFi, and NFT, to exchange ideas and share experiences and knowledge.
 
+
+## Advisory Committee
+
+- [Ravi Bapna](https://carlsonschool.umn.edu/faculty/ravi-bapna), University of Minnesota
+- [Anindya Ghose](https://www.stern.nyu.edu/faculty/bio/anindya-ghose), New York University
+- [Kartik Hosanagar](https://oid.wharton.upenn.edu/profile/kartikh/), University of Pennsylvania
+- [Jason Thatcher](https://www.fox.temple.edu/about-fox/directory/jason-thatcher/), Temple University
+- [Bruce Weber](https://www.udel.edu/faculty-staff/experts/bruce-weber/), University of Delaware
+- [D.J. Wu](https://www.scheller.gatech.edu/directory/faculty/wu/index.html), Georgia Institute of Technology
+
+## Current Officers
+
 #### Honorary President
 
 [J. Leon Zhao](https://myweb.cuhk.edu.cn/leonzhao)
@@ -14,7 +26,7 @@ J. Leon Zhao is Presidential Chair Professor at School of Management and Economi
 
 #### President
 
-[Harry J. Wang](https://harrywang.me/)
+[Harry Jiannan Wang](https://harrywang.me/)
 
 Harry Wang is a Professor of Management Information Systems at the University of Delaware.
 
