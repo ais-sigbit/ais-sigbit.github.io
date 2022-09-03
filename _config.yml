@@ -20,6 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
+- text: Workshops
+  permalink: workshops
 - text: News
   permalink: news
 
