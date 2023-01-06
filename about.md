@@ -12,6 +12,7 @@ The Special Interest Group on Blockchain Innovations and Technologies (SIGBIT) i
 - [Ravi Bapna](https://carlsonschool.umn.edu/faculty/ravi-bapna), University of Minnesota
 - [Roman Beck](https://pure.itu.dk/portal/en/persons/roman-beck), IT University of Copenhagen
 - [Anindya Ghose](https://www.stern.nyu.edu/faculty/bio/anindya-ghose), New York University
+- [Ola Henfridsson](https://people.miami.edu/profile/e9b054ee3e93764aff4aa4985808b60c), University of Miami
 - [Kartik Hosanagar](https://oid.wharton.upenn.edu/profile/kartikh/), University of Pennsylvania
 - [Jason Thatcher](https://www.fox.temple.edu/about-fox/directory/jason-thatcher/), Temple University
 - [Bruce Weber](https://www.udel.edu/faculty-staff/experts/bruce-weber/), University of Delaware
