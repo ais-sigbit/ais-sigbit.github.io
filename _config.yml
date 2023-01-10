@@ -22,8 +22,6 @@ nav-menu:
   permalink: about
 - text: Workshops
   permalink: workshops
-- text: News
-  permalink: news
 
 # use false to turn off any social media links
 twitter: https://twitter.com/SIGBIT_AIS
