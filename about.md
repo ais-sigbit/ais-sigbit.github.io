@@ -14,6 +14,7 @@ The Special Interest Group on Blockchain Innovations and Technologies (SIGBIT) i
 - [Anindya Ghose](https://www.stern.nyu.edu/faculty/bio/anindya-ghose), New York University
 - [Ola Henfridsson](https://people.miami.edu/profile/e9b054ee3e93764aff4aa4985808b60c), University of Miami
 - [Kartik Hosanagar](https://oid.wharton.upenn.edu/profile/kartikh/), University of Pennsylvania
+- [Matti Rossi](https://people.aalto.fi/matti.rossi), Aalto University
 - [Jason Thatcher](https://www.fox.temple.edu/about-fox/directory/jason-thatcher/), Temple University
 - [Bruce Weber](https://www.udel.edu/faculty-staff/experts/bruce-weber/), University of Delaware
 - [D.J. Wu](https://www.scheller.gatech.edu/directory/faculty/wu/index.html), Georgia Institute of Technology
