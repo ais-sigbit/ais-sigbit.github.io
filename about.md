@@ -30,21 +30,21 @@ J. Leon Zhao is Presidential Chair Professor at School of Management and Economi
 
 #### President
 
-[Harry Jiannan Wang](https://harrywang.me/)
-
-Harry Wang is a Professor of Management Information Systems at the University of Delaware.
-
-#### Vice President of Finance
-
 [Daning Hu](https://sustchud.github.io/)
 
 Daning Hu is an Associate Professor at the Department of Finance of the Southern University of Science and Technology in Shenzhen, China. 
 
-#### Vice President of Conferences
+#### Vice President of Finance
 
 [Shaokun Fan](https://business.oregonstate.edu/users/shaokun-fan)
 
-Shaokun Fan is an Assistant Professor in Business Analytics in the College of Business at Oregon State University.
+Shaokun Fan is an Associate Professor in Business Analytics in the College of Business at Oregon State University.
+
+#### Vice President of Education
+
+[Jiaqi Yan](https://im.nju.edu.cn/yjq_en/list.htm)
+
+Jiaqi Yan is a Professor at the Department of Information Management Science of the Nanjing University.
 
 ---
 
