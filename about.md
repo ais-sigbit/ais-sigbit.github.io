@@ -44,7 +44,7 @@ Shaokun Fan is an Associate Professor in Business Analytics in the College of Bu
 
 [Jiaqi Yan](https://im.nju.edu.cn/yjq_en/list.htm)
 
-Jiaqi Yan is a Professor at the Department of Information Management Science of the Nanjing University.
+Jiaqi Yan is a Professor at the School of Information Management of the Nanjing University.
 
 ---
 
